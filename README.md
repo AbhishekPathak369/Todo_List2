@@ -33,7 +33,7 @@ Homepage
 
 Clone the repository
 
-git clone https://github.com/AbhishekPathak369/todo-list.git
+
 
 
 Navigate to the project directory
@@ -51,13 +51,13 @@ Run the app
 npm start
 
 
-App will run at http://localhost:3000/
-
+App will run at :  [todo-list2-theta.vercel.app/
+](https://todo-list2-theta.vercel.app/)
 📫 Connect With Me
 
 LinkedIn: Abhishek Pathak
 
-GitHub: AbhishekPathak369
+GitHub: https://github.com/AbhishekPathak369
 
 ⭐ Don’t forget to star this repo if you like it!
 
